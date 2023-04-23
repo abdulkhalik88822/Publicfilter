@@ -5,4 +5,4 @@ SESSION      = "BQGlb60AT7R18KfoWXQLM_qRvoJ1UfqwgC9m53NF8kjBpAb3uorpRImLTTiT1fc5
 DATABASE_URI = "mongodb+srv://khalik:abdul@cluster0.kcy5vft.mongodb.net/?retryWrites=true&w=majority"
 LOG_CHANNEL  = -1001896609847
 ADMIN        = 6133440326
-CHANNEL      = "@GreyMatter_Bots"
+CHANNEL      = "-1001836465539"
