@@ -1,8 +1,8 @@
 API_ID       = 27619245
 API_HASH     = "b06905ffc083d4f7d78b5fbd5923bb84"
-BOT_TOKEN    = "6220002313:AAGTYq0tWyyXQpdHi_plKs31WMyzFK9jC5I"
+BOT_TOKEN    = "6254854432:AAF7ZQM67_8DiKQS0Or_M7NHk3o58x5yku0"
 SESSION      = "BQGlb60AT7R18KfoWXQLM_qRvoJ1UfqwgC9m53NF8kjBpAb3uorpRImLTTiT1fc5lp8srGWyLZd3L7WXqWI1iidoskcSG4QUXekhcuGsaN2sCf5jLd642Epis12HN33bOCF1Seb-t9ZrrhSkW0ufjg2dQXXKEblyggK_Uv349iPDfAEb2XO9_fK6As7T4a8NTK32F6KEe78kpxziWinDToipOJzmAA7DeWw0mVAeof3WvrSFyafJZBB8L1FUwOg0wyB-Dfj6LBUFLEAsQ7vreaPat4L5rUWwG2ivdLNP0z8U6pVBdciKfY02AaZ7fIgKQWCeIowDe91qvASmvtudIHKWfCupXAAAAAFf7PqGAA"
-DATABASE_URI = "mongodb+srv://khalik:abdul@cluster0.kcy5vft.mongodb.net/?retryWrites=true&w=majority"
-LOG_CHANNEL  = -1001896609847
+DATABASE_URI = "mongodb+srv://abdul789:abdul789@cluster0.gdjllja.mongodb.net/?retryWrites=true&w=majority"
+LOG_CHANNEL  = -1001626107740
 ADMIN        = 6133440326
 CHANNEL      = "-1001836465539"
