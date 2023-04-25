@@ -6,5 +6,3 @@ DATABASE_URI = "mongodb+srv://abdul789:abdul789@cluster0.gdjllja.mongodb.net/?re
 LOG_CHANNEL  = -1001626107740
 ADMIN        = 6133440326
 CHANNEL      = "-1001836465539"
-APPROVETEXT  = "Hello {mention}\nWelcome To {title}\n\nYour request has been approved"
-APPROVE     = "on"
